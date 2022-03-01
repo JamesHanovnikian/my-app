@@ -51,6 +51,48 @@ nav > h4 {
   font-weight: 600;
 }
 
+/*  Main  */
+
+body {
+  background-color: #282D35;
+}
+
+main { 
+  padding-top: 75px; 
+  
+  
+}
+
+main ul {
+  margin-top: 46px; 
+  color: #fff;
+} 
+
+main ul > li {
+  line-height: 19px;
+}
+
+main h1 {
+  text-align: center; 
+  width: 424px;
+  height: 41px;
+  left: 27px;
+  top: 148px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 39.06px;
+  line-height: 47px;
+  letter-spacing: -0.05em;
+  color: #FFF; 
+}
+
+
+
+
+
+
 
 
 code {
